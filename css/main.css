@@ -35,7 +35,10 @@ html, body {height:100%}
     padding:0;
 }
 
-iframe{height:60vh;}
+iframe{
+   height:60vh;
+   border: none;
+}
 
 @media only screen and (max-width: 440px){
     .counties {
